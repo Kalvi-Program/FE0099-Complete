@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+#mainHeading {
+  font-size: 40px;
+}
+
+#addBtn {
+  background-color: #f0ad4e;
+  color: black;
+}
+
+#addBtn:hover {
+  background-color: rgb(65, 65, 65);
+  color: #f0ad4e;
+}
+
+.card-title {
+  font-size: 23px;
+}
+
+#addTxt {
+  border: 1px solid rgba(0, 0, 0, 0.274);
+}
+
+#yourNotes {
+  font-size: 40px;
+}
+
+.details {
+  color: rgb(143, 143, 143);
+}
+
+.uppercase {
+  font-family: "Times New Roman", Times, serif;
+}
